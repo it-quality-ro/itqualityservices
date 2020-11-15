@@ -1,0 +1,256 @@
+
+p {color: black;
+font-style: 20px;}
+
+.p-1{color:rgb(255, 255, 255);
+font-size: 35px;
+text-align: center;}
+.p-2{color: rgb(255, 255, 255);
+font-size: 28px;
+margin-left: 50px;}
+nav{padding-top:20px;
+    padding-bottom:20px;
+    padding-left:25px;
+    padding-right:25px;
+    text-align:right;
+    margin-bottom: 25px;
+    border-bottom: 5px solid bisque;
+}
+.a-4 {margin-right: 15px;}
+.b-1 {margin-right: 15px;
+      color: white;
+}
+.b-2 {color:white;
+font-size: 40px;}
+.c-1{font-size: 30px;
+color: azure;
+text-align: center;}
+.c-2{font:20px;
+color:white;
+margin-left: 15px;}
+.c-4{font-size: 25px;
+margin-top: 1px;
+margin-left: 15px;
+color: white;
+}
+.c-5{font-size: 25px;}
+.c-m{margin-left: 15px;
+color: white;}
+.c-3{margin-top: 1px;
+margin-left: 15px;
+color: white;}
+
+h1{
+    text-align: center;
+}
+
+.p-4{
+    color: white;
+    text-align: center;}
+
+
+.iph{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+    transition:width .25s ;
+}
+
+.me {
+    height: 550px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: auto;
+    display: inline;
+}
+
+ .indx{ 
+     display:inline-flex;
+justify-content: space-around;
+     align-items: center;
+    margin-top: 25px
+}
+.txt{
+display: inline-block;
+font-size: 40px;
+color:white;
+
+}
+
+.nav1{padding-top:25px;
+    padding-bottom:25px;
+    padding-left:30px;
+    padding-right:30px;
+    text-align:right;
+    margin-bottom: 30px;
+    border-bottom: 6px solid rgb(255, 255, 255);
+
+
+
+}
+
+.body2 {
+     background-color: white
+    }
+    .body3{
+        background-color: black;
+    }
+
+
+  .p-4 span{
+      color:white;
+  }
+
+  .hardware {
+    height: 225px;
+    width: 400px;
+    display: block;
+    margin-left: 250px;
+    margin-right: auto;
+    display: inline;
+}
+
+.a-4 span{
+    color: white;
+}
+
+.p-3 {
+    color: white;
+    text-align: center;
+}
+
+.s-1{
+    color: white;
+
+}
+.windows span{
+    
+    color: white;
+}
+.windows{
+    color: white;
+    text-align: center;
+}
+.win10{
+        height: 225px;
+        width: 400px;
+        display: block;
+        margin-left: 500px;
+        margin-right: auto;
+        display: inline;
+}
+
+.pc{ 
+    text-align: center;
+}
+
+.build{
+    height: 225px;
+        width: 400px;
+        display: block;
+        margin-left: 500px;
+        margin-right: auto;
+        display: inline;
+}
+.b-3{
+    font-size: 35px;
+    color: white;
+}
+
+.titlu{ 
+    color: white;
+}
+
+.pc span{
+    color: white;
+}
+
+span{ 
+    color: white;
+}
+
+.direct{
+    color: white;
+    font-size: 20px;
+}
+
+.dir {
+    color: white;
+}
+.nume{
+    display: inline-block;
+    font-size: 15px;
+    color:white;
+    
+}
+
+.cata{
+    height: 350px;
+    width: 400;
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: auto;
+   display: inline;
+}
+.cata1{
+    display:inline-flex;
+    justify-content: space-around;
+         align-items: center;
+        margin-top: 25px
+    
+}
+.har{
+    color: white;
+    font-size: 25px;    
+}
+.sami{
+    display:inline-flex;
+    justify-content: space-around;
+         align-items: center;
+        margin-top: 25px;
+}
+.nume1{
+    display: inline-block;
+    font-size: 15px;
+    color:white;
+    
+}
+.sam{
+    height: 350px;
+    width: 400;
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: auto;
+   display: inline;
+}
+.sot{
+    color: white;
+    font-size: 25px; 
+}
+.diego{
+    display:inline-flex;
+    justify-content: space-around;
+         align-items: center;
+        margin-top: 25px;
+}
+.nume2{
+    display: inline-block;
+    font-size: 15px;
+    color:white;
+}
+.die{
+    height: 350px;
+    width: 400;
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: auto;
+   display: inline;
+}
+.dig{
+    color: white;
+    font-size: 25px; 
+}
+
